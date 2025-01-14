@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 
 ![Screenshot](https://github.com/Ravindra-Margale/Employees-Management-System/blob/main/Screenshot%202025-01-14%20212922.png)
 ![Alt text](https://github.com/Ravindra-Margale/Employees-Management-System/blob/main/employee-dashboard.png)
+![Alt text](https://github.com/Ravindra-Margale/Employees-Management-System/blob/main/Manger-dahboard1.png)
